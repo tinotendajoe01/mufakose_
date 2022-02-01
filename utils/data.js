@@ -75,7 +75,7 @@ const data = {
       price: 13,
       location: "Mufakose",
       rating: 4.5,
-      numReviews: 10,
+      numReviews:7,
       description: "best  in town",
     },
   ],
